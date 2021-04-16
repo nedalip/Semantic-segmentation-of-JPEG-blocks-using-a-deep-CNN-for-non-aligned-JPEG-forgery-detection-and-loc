@@ -1,0 +1,1 @@
+# Semantic-segmentation-of-JPEG-blocks-using-a-deep-CNN-for-non-aligned-JPEG-forgery-detection-and-loc
